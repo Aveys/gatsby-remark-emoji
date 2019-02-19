@@ -7,7 +7,7 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "emojione": "^3.1.2"
+    "emojione": "^4.5.0"
   },
   "keywords": [
     "gatsby",
@@ -17,6 +17,6 @@
   ],
   "repository" : { 
     "type" : "git", 
-    "url" : "https://github.com/Rulikkk/gatsby-remark-emoji.git"
+    "url" : "https://github.com/Aveys/gatsby-remark-emoji.git"
   }
 }
